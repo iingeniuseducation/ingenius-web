@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ingenius Education</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #004080, #00aaff);
+      color: white;
+      text-align: center;
+    }
+
+    .container {
+      padding: 60px 20px;
+    }
+
+    h1 {
+      font-size: 50px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 20px;
+      max-width: 700px;
+      margin: 20px auto;
+      line-height: 1.5;
+    }
+
+    .btn {
+      margin-top: 20px;
+      padding: 12px 25px;
+      background-color: white;
+      color: #004080;
+      border: none;
+      border-radius: 25px;
+      font-size: 16px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    img {
+      margin-top: 30px;
+      width: 300px;
+      border-radius: 15px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Ingenius Education</h1>
+
+    <p>
+      Somos una institución educativa comprometida con la formación integral de nuestros estudiantes, 
+      desarrollando valores, habilidades y capacidades que les permitan construir un futuro exitoso 
+      y contribuir positivamente a la sociedad.
+    </p>
+
+    <a class="btn" href="#">Contáctanos</a>
+
+    <br>
+
+    <img src="https://images.unsplash.com/photo-1588072432836-e10032774350" alt="Educación">
+  </div>
+</body>
+</html>
